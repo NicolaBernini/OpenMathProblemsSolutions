@@ -11,5 +11,8 @@ It's not just about the actual result but the path that has been followed
 
 My goal is to train myself with some interesting problems and share the solutions so to let you know me a little better, surely better I'd be able to explain with just plain words 
 
+# Recent Updates 
 
+- 2018-09-16 
+  - Added [USAMO 2012](https://github.com/NicolaBernini/OpenMathProblemsSolutions/tree/master/MathCompetitions/USAMO/USAMO2012)
 
